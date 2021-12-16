@@ -7,5 +7,5 @@ router.get("/all", controller.getAll);
 router.post("/criar", controller.criarCadastro);
 router.put("/atualizar/:id", controller.atualizacaoCadastro);
 router.delete("/deletar/:id", controller.deletarCadastro);
-
+router.get("/todos/:id", controller.buscarId);
 module.exports = router
