@@ -26,8 +26,34 @@ const criarCadastro = async (req, res) => {
     }
 }
 
+const atualizacaoCadastro = async (req, res) => {
+    try {
+        const atualizarCadastro = await criarCadastro.findById(req.params.id);
+
+        if(atualizarCadastro) {
+            atualizarCadastro.perguntas = req.body.perguntas || atualizarCadastro.perguntas
+            atualizarCadastro.apelido =req.body.apelido || atualizarCadastro.apelido
+            atualizarCadastro.idade = req.body.idade || atualizarCadastro.idade
+            atualizarCadastro.idadeDaCrianca = req.body.idadeDaCrianca || atualizarCadastro.idadeDaCrianca
+            atualizarCadastro.generoDaCrianca = req.body.generoDaCrianca || atualizarCadastro.generoDaCrianca
+            atualizarCadastro.respostas = req.body.respostas || atualizarCadastro.respostas
+
+            const salvarCadastros = await atualizarCadastros.save();
+            res.status(200).json({
+                message: "Dados da pessoa, atualizado com sucesso",
+                salvarCadastros
+            })
+         
+        }
+        
+        res.status(400).json({message: "Me desculpe, cadastro não encontrado!"});
+    }catch (error) {
+        res.status(500).json({message: error.message})
+    }
+}
 
 module.exports = {
     getAll,
-    criarCadastro
+    criarCadastro,
+    atualizacaoCadastro
 }
