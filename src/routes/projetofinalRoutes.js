@@ -5,6 +5,7 @@ const controller = require("../controller/projetoFinalController"); //pegar tudo
 
 router.get("/all", controller.getAll);
 router.post("/criar", controller.criarCadastro);
-router.put("/atualizar", controller.atualizacaoCadastro);
+router.put("/atualizar/:id", controller.atualizacaoCadastro);
+router.delete("/deletar/:id", controller.deletarCadastro);
 
 module.exports = router

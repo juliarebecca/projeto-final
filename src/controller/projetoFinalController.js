@@ -52,8 +52,24 @@ const atualizacaoCadastro = async (req, res) => {
     }
 }
 
+const deletarCadastro = async (req, res) => {
+    try {
+        const cadastro = await Users.findById(req.params);
+        if(!cadastro) {
+            res.status(404).json({message: "Cadastro não encontrada."})
+        }
+        await cadastro.delete();
+        res.status(204).json({message: "Cadastro deletada com sucesso."})
+    } catch (error) {
+        res.status(500).json({message: error.message})
+    }
+}
+
+
+
 module.exports = {
     getAll,
     criarCadastro,
-    atualizacaoCadastro
+    atualizacaoCadastro,
+    deletarCadastro
 }
