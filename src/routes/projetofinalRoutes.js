@@ -7,7 +7,7 @@ router.get("/", (req, res) => {
     res.status(200).send({
         title: "Projeto Final - Para Mães",
         version: "1.0.0",
-        message: "Bem vindas ao meu site para mães!"
+        message: "Bem vindas ao meu site mamães!"
     })
 } )
 router.get("/all", controller.getAll);
