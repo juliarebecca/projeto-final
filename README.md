@@ -3,7 +3,7 @@
     <p align="center">Projeto Final <p>
 </h1>
 <p align="center">
-<img src=""/>
+<img src="./assets/Para.gif"/>
 </p>
 <br>
 
