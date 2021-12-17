@@ -200,8 +200,8 @@ Estou aberta, caso queiram ajudar com algo no meu projeto.
 <br>
 
 <td align="center"><a href="https://github.com/juliarebecca">
-<img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/88255877?v=4
-" width="200px;" alt=""/> </td><br> 
+<img style="border-radius: 20%;" src="https://avatars.githubusercontent.com/u/88255877?v=4"
+ width="200px;" alt=""/> </td><br> 
 
 
 ## [Julia Borges](https://github.com/juliarebecca)
