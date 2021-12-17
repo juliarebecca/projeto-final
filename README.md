@@ -210,3 +210,11 @@ Estou aberta, caso queiram ajudar com algo no meu projeto.
 <br>
 
 ## 🥰 Agradecimentos:
+
+<p align="justify">Primeiramente gostaria de agradecer a Deus que sem ele nada é possível, segundo a minha irmã Barbara Borges que me apresentou a {Reprograma} e não sossegou até eu fazer a inscrição e aqui estou ❤️ , terceiro a Reprograma que por ter me escolhido entre tantas mulheres e ter me acolhido e dado a opotunidade de aprender uma nova profissão e poder finalmente ter a oportunidade de mudar de vida em meio a tantos problemas (minha luz no fim do túnel).
+<p align="justify">A todas as maravilhosas da minha turma e falo todas mesmo(Vocês são incríveis) que me deram uma nova família e quero vocês para sempre em minha vida, mas em especial e não poderia deixar de citar elas: Samila que foi meu apoio inicial e me ajudou muito no início e me fez não desistir, nunca esquecerei Sami, obrigada de coração por tudo, sem você não estaria aqui hoje, depois a Xênia no início e meio foi um apoio também me ajudando e conversando e também me ajudou a não desisti e está aqui hoje, por último mas não menos importante a Hannah que me ajudou e me acolheu agora no finalzinho e sem ela realmente não estaria aqui pois me ajudou com tudo no final, me apoiando inclusive com esse projeto quando eu achava que estava tudo perdido, Te amo mulher!!!
+<p align="justify">A todas as Professoras divas e maravilhosas que passaram por aqui e Monitoras por todo ensinamento e acolhimento.
+Raquel que realmente facilita a vida de qualquer uma, obrigada por tudo!
+<p align="justify">Vocês sempre estarão em meu coração, gratidão por tudo que vivi aqui com cada uma aqui e lembrem: Lugar de mulher é onde ela quiser.
+
+<p align="justify">Beijos maravilhosas Amo Vocês!
